@@ -1,0 +1,20 @@
+{
+  "CONTRACT_ADDRESS": "0x836eb8202d4bc2ed14d1d2861e441c69228155cc",
+  "SCAN_LINK": "https://bscscan.com/address/0x836eb8202d4bc2ed14d1d2861e441c69228155cc",
+  "NETWORK": {
+    "NAME": "BSC",
+    "SYMBOL": "BNB",
+    "ID": 56
+  },
+  "NFT_NAME": "Solart",
+  "SYMBOL": "solart",
+  "MAX_SUPPLY": 50000000000,
+  "WEI_COST": 0,
+  "WL_COST": 0, 
+  "DISPLAY_COST": 0.008,
+  "WL_Display": 0,
+  "GAS_LIMIT": 485000,
+  "MARKETPLACE": "Opensea",
+  "Solart": "https://nftb.io/user/0xb036d297553dee4549b43e12c50dddd7d719820c/",
+  "SHOW_BACKGROUND": false
+}
